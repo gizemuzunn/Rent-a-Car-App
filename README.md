@@ -1,2 +1,3 @@
 # Rent-a-Car-App
 Android Studio
+Rent a Car App starts with the "Getting Started" button in Main Activity.In brief, whole cars which can be rented appear as classsified separately by fuel type like diesel or gasoline in a RcyclerView that shows different items using the Listelements and adapter.Clicking on the item to be examined gives information about the model, gear, seat number, fuel consumption and rental fee.
